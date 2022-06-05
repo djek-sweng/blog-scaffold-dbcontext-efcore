@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scaffold.App", "Scaffold.App\Scaffold.App.csproj", "{4291B33A-4393-4892-A553-73D8A10658BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scaffold.Library", "Scaffold.Library\Scaffold.Library.csproj", "{83D0816D-5F3F-4785-B8E1-55E824C1CD27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4291B33A-4393-4892-A553-73D8A10658BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4291B33A-4393-4892-A553-73D8A10658BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4291B33A-4393-4892-A553-73D8A10658BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4291B33A-4393-4892-A553-73D8A10658BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83D0816D-5F3F-4785-B8E1-55E824C1CD27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83D0816D-5F3F-4785-B8E1-55E824C1CD27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83D0816D-5F3F-4785-B8E1-55E824C1CD27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83D0816D-5F3F-4785-B8E1-55E824C1CD27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
